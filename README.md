@@ -1,2 +1,2 @@
 # Learning Python
-## Tutorial with python from scodim 💕
+## Tutorial with python from scodim (AM) 💕
