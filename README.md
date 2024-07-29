@@ -17,6 +17,7 @@
 Clone the repository:
 ```bash
 git clone https://github.com/Svaveop/PythonTutor.git
+```
 
 ## Project Status
 
